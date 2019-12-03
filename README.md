@@ -9,7 +9,12 @@ Required dependencies
 -----------------------
 * [AngularJS] (http://www.angularjs.com) 
 
-Add the Azure Blob Upload to your index.html file 
+If you have bower installed then use this command: 
+```
+bower install angular-azure-blob-upload
+```
+
+And if you have not installed bower already then clone the project manually and use js file as:
 ```HTML
 <script src='/client/js/lib/azure-blob-upload.js'></script>
 ```

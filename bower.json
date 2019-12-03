@@ -1,0 +1,17 @@
+{
+  "name": "angular-azure-blob-upload",
+  "homepage": "https://github.com/ferozkhandev/angular-azure-blob-upload",
+  "authors": [
+    "Feroz Khan <khan.feroz8899@gmail.com>"
+  ],
+  "description": "This is AngularJs project to upload files to Azure Blob using AngularJs",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
